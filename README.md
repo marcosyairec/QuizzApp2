@@ -6,5 +6,4 @@ de quinta edición.
 A continuación presento pruebas:
 ![Uploading img1quizz.jpg…]()
 ![Uploading img2quiz.jpg…]()
-![Uploading img3quizz.jpg…]()
 
