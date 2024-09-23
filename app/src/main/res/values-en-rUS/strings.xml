@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="Mensaje_Hola">Hello World</string>
+    <string name="true_button">True</string>
+    <string name="texto_pregunta">Here is the question</string>
+    <string name="false_button">False</string>
+    <string name="preview_button">Preview</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="next_button">Next</string>
+    <string name="pregunta_continentes">The World has 5 continents</string>
+    <string name="pregunta_estados">Mexico has 32 states</string>
+    <string name="pregunta_municipios">Jalisco has 125 municipalities</string>
+</resources>

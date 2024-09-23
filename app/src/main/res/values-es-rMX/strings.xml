@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="Mensaje_Hola">Hola Mundo</string>
+    <string name="true_button">Verdadero</string>
+    <string name="texto_pregunta">Aquí va la pregunta</string>
+    <string name="false_button">Falso</string>
+    <string name="preview_button">Anterior</string>
+    <string name="correct_toast">¡Correcto!</string>
+    <string name="incorrect_toast">¡Incorrecto!</string>
+    <string name="next_button">Siguiente</string>
+    <string name="pregunta_continentes">Hay 5 continentes</string>
+    <string name="pregunta_estados">Hay 32 estados en la República Mexicana</string>
+    <string name="pregunta_municipios">Jalisco tiene 125 municipios</string>
+</resources>
